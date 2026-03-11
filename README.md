@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello, I'm Jaemin </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hello, I'm now learning Android Architecture and building an app with Flutter F/W. </li>I'm interested in AI prompting and various ecosystems. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hello, I'm now learning Android Architecture and building an app with Flutter F/W. </li>I'm interested in AI prompt engineering and various ecosystems. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
